@@ -15,4 +15,5 @@ Menu information:
 5. The maximum solar radiation for the given date and the corresponding time.
 6. Exit the program
 
+Created: 04/05/2020
 Last updated: 24/07/2020
